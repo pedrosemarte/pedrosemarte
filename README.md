@@ -1,6 +1,2 @@
-serviço   | valores
---------- | ------
-pack do pé | R$ 10
-call como se eu fosse teu namorado | R$ 8
-solicitaçao de amizade | R$ 7
-te sigo no insta | R$ 8
+teste
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7gaA3wERFkFkgivjwbSvkG?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
