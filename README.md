@@ -2,7 +2,7 @@
 </p>
 
 
-### <p align="center">Explore o República do Kochi!
+### <p align="center">☀ República do Kochi!
 </p>
 
 *<p align="center">A comunidade do Discord República do Kochi, tem como principal objetivo trazer a todos <br> os membros um lugar para conversar e se divertir entre si, trazendo o melhor conforto a oferecer, <br> além do diferencial e destaque dos eventos e sorteios, onde priorizam todos os detalhes para trazer <br> a melhor experiência a todos!*
@@ -13,10 +13,10 @@
   <img src="repkochi.png" width="550" />
 </p>
 
-## <p align="center">[⬤ Descubra ⬤](https://discord.gg/JQ2HdUm)
+## <p align="center">[★ Descubra ★](https://discord.gg/JQ2HdUm)
 </p>
 
-### <p align="center">Website Pessoal
+### <p align="center">Website
 </p>
 
 <p 
