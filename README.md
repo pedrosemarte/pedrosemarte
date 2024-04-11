@@ -10,7 +10,7 @@
 
 <p 
   align="center">
-  <img src="https://media.discordapp.net/attachments/870073540907524166/1207807337201401886/a2edacc0-ccb5-4846-b20b-469ae64d4e9a.png?ex=66185c3d&is=6605e73d&hm=7e67a2a1d44fcdc67bb9f40d64a6d1963eeb0dd8a5e85d110df498ccc53dcf95&=&format=webp&quality=lossless&width=687&height=203" width="550" />
+  <img src="repkochi.png" width="550" />
 </p>
 
 ## <p align="center">[⬤ Descubra ⬤](https://discord.gg/JQ2HdUm)
@@ -21,7 +21,7 @@
 
 <p 
   align="center">
-  <img src="https://media.discordapp.net/attachments/870073540907524166/1207815378445664376/aea5ef73-9f34-4816-abf4-ec50f8071297.png?ex=661863ba&is=6605eeba&hm=cbcb8ffa33e82eba588a691031a5a96ed876805f3f86b81c6db3cc12edab8d84&=&format=webp&quality=lossless&width=1440&height=476" width="500" />
+  <img src="bebabebabanner.png" width="500" />
 </p>
 
 ## <p align="center">[bebabeba.be](https://bebabeba.be)
