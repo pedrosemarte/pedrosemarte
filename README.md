@@ -24,5 +24,5 @@
   <img src="bebabebabanner.png" width="500" />
 </p>
 
-## <p align="center">[bebabeba.be](https://bebabeba.be)
+## <p align="center">[【bebabeba.be!】](https://bebabeba.be)
 </p>
